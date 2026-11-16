@@ -1,0 +1,14 @@
+Job Title: AI & Full Stack Developer (FastAPI + React + NLP)
+Location: Remote / Hybrid (Synthetic Evaluation Dataset)
+Experience Required: 2+ years of professional experience
+Required Qualification: B.Tech / B.E. in Computer Science, Computational Mathematics, or related discipline
+
+Role Overview:
+We are seeking an AI / Full Stack Developer to build intelligent document processing and semantic matching applications using Python, FastAPI, React.js, Sentence Transformers, spaCy, PostgreSQL, and Docker.
+
+Key Requirements & Technical Skills:
+- 2+ years of experience developing full-stack AI applications and REST APIs.
+- Backend proficiency in Python and FastAPI with PostgreSQL or MongoDB databases.
+- Applied NLP experience with Sentence Transformers, spaCy, and Machine Learning for semantic similarity and ranking.
+- Frontend experience building responsive dashboards in React.js and Tailwind CSS.
+- Experience containerizing services with Docker and deploying on AWS or GCP.

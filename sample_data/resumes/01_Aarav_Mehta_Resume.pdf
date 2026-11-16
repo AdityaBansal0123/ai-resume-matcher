@@ -1,0 +1,50 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 963 >>
+stream
+BT
+/F1 10 Tf
+50 790 Td
+13 TL
+(Candidate Name: Aarav Mehta) Tj
+T* (Email: aarav.mehta.synth@example.com | Phone: +91-9810011001) Tj
+T* (Total Experience: 5 years) Tj
+T* (Education:) Tj
+T* (B.Tech in Computer Science and Engineering, VIT Vellore \(2017 - 2021\)) Tj
+T* (Technical Skills:) Tj
+T* (Java, Spring Boot, SQL, PostgreSQL, Microservices, REST APIs, Docker, AWS, Hibernate, Kafka, Git) Tj
+T* (Work Experience:) Tj
+T* (Senior Backend Engineer | FinCore Systems \(2023 - 2026\)) Tj
+T* (- Architected high-throughput payment Microservices using Java 17, Spring Boot, and REST APIs handling 15,000 req/sec.) Tj
+T* (- Optimized complex transactional queries in PostgreSQL and SQL, reducing p99 latency by 38%.) Tj
+T* (- Containerized 14 backend services with Docker and deployed on AWS ECS clusters.) Tj
+T* (Software Engineer | CloudPulse Tech \(2021 - 2023\)) Tj
+T* (- Built distributed order processing services in Java, Spring Boot, Hibernate, and SQL.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001255 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1325
+%%EOF

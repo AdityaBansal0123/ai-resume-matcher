@@ -1,0 +1,14 @@
+Job Title: Senior Java & Microservices Backend Engineer
+Location: Bengaluru / Hybrid (Synthetic Evaluation Dataset)
+Experience Required: 4+ years of professional experience
+Required Qualification: B.Tech / B.E. / M.Tech / MCA in Computer Science or Engineering
+
+Role Overview:
+We are looking for a Backend Engineer with strong hands-on expertise in Java, Spring Boot, SQL, PostgreSQL, Microservices, REST APIs, and Docker to architect and scale high-throughput distributed backend services.
+
+Key Requirements & Technical Skills:
+- 4 to 6 years of backend software engineering experience building enterprise services.
+- Proficiency in Java, Spring Boot, and REST APIs for distributed backend systems.
+- Strong database design and query optimization skills using SQL and PostgreSQL.
+- Hands-on experience with Microservices architecture, containerization using Docker, and cloud deployment on AWS.
+- Educational qualification: B.Tech / B.E. or M.Tech in Computer Science or equivalent STEM field.

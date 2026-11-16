@@ -1,0 +1,1767 @@
+{
+  "jd_java_backend": {
+    "title": "Senior Java & Microservices Backend Engineer",
+    "raw_text": "Job Title: Senior Java & Microservices Backend Engineer\nLocation: Bengaluru / Hybrid (Synthetic Evaluation Dataset)\nExperience Required: 4+ years of professional experience\nRequired Qualification: B.Tech / B.E. / M.Tech / MCA in Computer Science or Engineering\n\nRole Overview:\nWe are looking for a Backend Engineer with strong hands-on expertise in Java, Spring Boot, SQL, PostgreSQL, Microservices, REST APIs, and Docker to architect and scale high-throughput distributed backend services.\n\nKey Requirements & Technical Skills:\n- 4 to 6 years of backend software engineering experience building enterprise services.\n- Proficiency in Java, Spring Boot, and REST APIs for distributed backend systems.\n- Strong database design and query optimization skills using SQL and PostgreSQL.\n- Hands-on experience with Microservices architecture, containerization using Docker, and cloud deployment on AWS.\n- Educational qualification: B.Tech / B.E. or M.Tech in Computer Science or equivalent STEM field.\n",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "SQL",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Microservices",
+      "REST APIs"
+    ],
+    "min_experience_years": 4.0,
+    "required_education": "Required Qualification: B.Tech / B.E. / M.Tech / MCA in Computer Science or Engineering",
+    "responsibilities_text": "Job Title: Senior Java & Microservices Backend Engineer\nLocation: Bengaluru / Hybrid (Synthetic Evaluation Dataset)\nExperience Required: 4+ years of professional experience\nRequired Qualification: B.Tech / B.E. / M.Tech / MCA in Computer Science or Engineering\n\nRole Overview:\nWe are looking for a Backend Engineer with strong hands-on expertise in Java, Spring Boot, SQL, PostgreSQL, Microservices, REST APIs, and Docker to architect and scale high-throughput distributed backend services.\n\nKey Requirements & Technical Skills:\n- 4 to 6 years of backend software engineering experience building enterprise services.\n- Proficiency in Java, Spring Boot, and REST APIs for distributed backend systems.\n- Strong database design and query optimization skills using SQL and PostgreSQL.\n- Hands-on experience with Microservices architecture, containerization using Docker, and cloud deployment on AWS.\n- Educational qualification: B.Tech / B.E. or M.Tech in Computer Science or equivalent STEM field.\n"
+  },
+  "jd_ai_fullstack": {
+    "title": "AI & Full Stack Developer (FastAPI + React + NLP)",
+    "raw_text": "Job Title: AI & Full Stack Developer (FastAPI + React + NLP)\nLocation: Remote / Hybrid (Synthetic Evaluation Dataset)\nExperience Required: 2+ years of professional experience\nRequired Qualification: B.Tech / B.E. in Computer Science, Computational Mathematics, or related discipline\n\nRole Overview:\nWe are seeking an AI / Full Stack Developer to build intelligent document processing and semantic matching applications using Python, FastAPI, React.js, Sentence Transformers, spaCy, PostgreSQL, and Docker.\n\nKey Requirements & Technical Skills:\n- 2+ years of experience developing full-stack AI applications and REST APIs.\n- Backend proficiency in Python and FastAPI with PostgreSQL or MongoDB databases.\n- Applied NLP experience with Sentence Transformers, spaCy, and Machine Learning for semantic similarity and ranking.\n- Frontend experience building responsive dashboards in React.js and Tailwind CSS.\n- Experience containerizing services with Docker and deploying on AWS or GCP.\n",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "PostgreSQL",
+      "MongoDB",
+      "React.js",
+      "Docker",
+      "AWS",
+      "GCP",
+      "REST APIs",
+      "Sentence Transformers",
+      "spaCy",
+      "NLP",
+      "Machine Learning",
+      "Tailwind CSS"
+    ],
+    "min_experience_years": 2.0,
+    "required_education": "Required Qualification: B.Tech / B.E. in Computer Science, Computational Mathematics, or related discipline",
+    "responsibilities_text": "Job Title: AI & Full Stack Developer (FastAPI + React + NLP)\nLocation: Remote / Hybrid (Synthetic Evaluation Dataset)\nExperience Required: 2+ years of professional experience\nRequired Qualification: B.Tech / B.E. in Computer Science, Computational Mathematics, or related discipline\n\nRole Overview:\nWe are seeking an AI / Full Stack Developer to build intelligent document processing and semantic matching applications using Python, FastAPI, React.js, Sentence Transformers, spaCy, PostgreSQL, and Docker.\n\nKey Requirements & Technical Skills:\n- 2+ years of experience developing full-stack AI applications and REST APIs.\n- Backend proficiency in Python and FastAPI with PostgreSQL or MongoDB databases.\n- Applied NLP experience with Sentence Transformers, spaCy, and Machine Learning for semantic similarity and ranking.\n- Frontend experience building responsive dashboards in React.js and Tailwind CSS.\n- Experience containerizing services with Docker and deploying on AWS or GCP.\n"
+  },
+  "rankings_java_backend": [
+    {
+      "candidate_name": "Aarav Mehta",
+      "email": "aarav.mehta.synth@example.com",
+      "phone": "+91-9810011001",
+      "filename": "01_Aarav_Mehta_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 5.0,
+      "education_summary": "Senior Backend Engineer | FinCore Systems (2023 - 2026)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs",
+        "Kafka",
+        "Git",
+        "Hibernate"
+      ],
+      "raw_text": "Candidate Name: Aarav Mehta\nEmail: aarav.mehta.synth@example.com | Phone: +91-9810011001\nTotal Experience: 5 years\nEducation:\nB.Tech in Computer Science and Engineering, VIT Vellore (2017 - 2021)\nTechnical Skills:\nJava, Spring Boot, SQL, PostgreSQL, Microservices, REST APIs, Docker, AWS, Hibernate, Kafka, Git\nWork Experience:\nSenior Backend Engineer | FinCore Systems (2023 - 2026)\n- Architected high-throughput payment Microservices using Java 17, Spring Boot, and REST APIs handling 15,000 req/sec.\n- Optimized complex transactional queries in PostgreSQL and SQL, reducing p99 latency by 38%.\n- Containerized 14 backend services with Docker and deployed on AWS ECS clusters.\nSoftware Engineer | CloudPulse Tech (2021 - 2023)\n- Built distributed order processing services in Java, Spring Boot, Hibernate, and SQL.",
+      "experience_text": "Senior Backend Engineer | FinCore Systems (2023 - 2026)\n- Architected high-throughput payment Microservices using Java 17, Spring Boot, and REST APIs handling 15,000 req/sec.\n- Optimized complex transactional queries in PostgreSQL and SQL, reducing p99 latency by 38%.\n- Containerized 14 backend services with Docker and deployed on AWS ECS clusters.\nSoftware Engineer | CloudPulse Tech (2021 - 2023)\n- Built distributed order processing services in Java, Spring Boot, Hibernate, and SQL.",
+      "overall_score": 96,
+      "breakdown": {
+        "skill_score": 100.0,
+        "semantic_score": 86.4,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [],
+      "missing_skills": [],
+      "experience_status": "Exceeds / Meets Requirement (5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (100% | 40% weight): Matched 8/8 required skills directly (Java, Spring Boot, SQL, PostgreSQL, Docker, AWS, Microservices, REST APIs).",
+        "Contextual Role & Project Alignment (86% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 5 years of relevant experience compared to the 4 years specified in the JD (Exceeds / Meets Requirement (5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): Senior Backend Engineer | FinCore Systems (2023 - 2026)."
+      ]
+    },
+    {
+      "candidate_name": "Priya Nair",
+      "email": "priya.nair.synth@example.com",
+      "phone": "+91-9810011002",
+      "filename": "02_Priya_Nair_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 4.5,
+      "education_summary": "M.Tech in Software Engineering, IIIT Bangalore (2019 - 2021)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "REST APIs",
+        "Git"
+      ],
+      "raw_text": "Candidate Name: Priya Nair\nEmail: priya.nair.synth@example.com | Phone: +91-9810011002\nTotal Experience: 4.5 years\nEducation:\nM.Tech in Software Engineering, IIIT Bangalore (2019 - 2021)\nTechnical Skills:\nJava, Spring Boot, SQL, PostgreSQL, REST APIs, Microservices, Docker, Kubernetes, Git\nWork Experience:\nBackend Software Engineer | PayScale India (2021 - 2026)\n- Designed scalable ledger Microservices using Java, Spring Boot, and REST APIs.\n- Managed multi-terabyte relational schemas on PostgreSQL and wrote optimized SQL stored procedures.\n- Packaged backend applications using Docker and orchestrated deployments on Kubernetes.",
+      "experience_text": "Backend Software Engineer | PayScale India (2021 - 2026)\n- Designed scalable ledger Microservices using Java, Spring Boot, and REST APIs.\n- Managed multi-terabyte relational schemas on PostgreSQL and wrote optimized SQL stored procedures.\n- Packaged backend applications using Docker and orchestrated deployments on Kubernetes.",
+      "overall_score": 93,
+      "breakdown": {
+        "skill_score": 97.5,
+        "semantic_score": 79.7,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Microservices",
+        "REST APIs",
+        "AWS (via Kubernetes, 80%)"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Microservices",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "AWS",
+          "resume_skill": "Kubernetes",
+          "similarity": 0.8
+        }
+      ],
+      "missing_skills": [],
+      "experience_status": "Exceeds / Meets Requirement (4.5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (98% | 40% weight): Matched 7/8 required skills directly (Java, Spring Boot, SQL, PostgreSQL, Docker, Microservices, REST APIs) plus 1 semantic skill match(es) (AWS ~ Kubernetes).",
+        "Contextual Role & Project Alignment (80% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4.5 years of relevant experience compared to the 4 years specified in the JD (Exceeds / Meets Requirement (4.5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): M.Tech in Software Engineering, IIIT Bangalore (2019 - 2021)."
+      ]
+    },
+    {
+      "candidate_name": "Rohan Kulkarni",
+      "email": "rohan.kulkarni.synth@example.com",
+      "phone": "+91-9810011003",
+      "filename": "03_Rohan_Kulkarni_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 4.0,
+      "education_summary": "B.E. in Information Technology, PICT Pune (2018 - 2022)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCP",
+        "REST APIs",
+        "Kafka",
+        "Git",
+        "Hibernate"
+      ],
+      "raw_text": "Candidate Name: Rohan Kulkarni\nEmail: rohan.kulkarni.synth@example.com | Phone: +91-9810011003\nTotal Experience: 4 years\nEducation:\nB.E. in Information Technology, PICT Pune (2018 - 2022)\nTechnical Skills:\nJava, Spring Boot, SQL, REST APIs, Hibernate, Kafka, Kubernetes, GCP, Git\nWork Experience:\nSoftware Development Engineer II | Nexus Commerce (2022 - 2026)\n- Note: Demonstrates semantic skill matching (has SQL & Hibernate instead of explicit PostgreSQL; Kubernetes & GCP instead of Docker & AWS; Kafka distributed services).\n- Engineered event-driven backend services using Java, Spring Boot, REST APIs, and Apache Kafka.\n- Built relational data access layers with SQL and Hibernate ORM, deploying workloads on Kubernetes and GCP.",
+      "experience_text": "Software Development Engineer II | Nexus Commerce (2022 - 2026)\n- Note: Demonstrates semantic skill matching (has SQL & Hibernate instead of explicit PostgreSQL; Kubernetes & GCP instead of Docker & AWS; Kafka distributed services).\n- Engineered event-driven backend services using Java, Spring Boot, REST APIs, and Apache Kafka.\n- Built relational data access layers with SQL and Hibernate ORM, deploying workloads on Kubernetes and GCP.",
+      "overall_score": 92,
+      "breakdown": {
+        "skill_score": 98.0,
+        "semantic_score": 77.2,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Microservices (via REST APIs, 84%)"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "REST APIs",
+          "similarity": 0.84
+        }
+      ],
+      "missing_skills": [],
+      "experience_status": "Exceeds / Meets Requirement (4 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (98% | 40% weight): Matched 7/8 required skills directly (Java, Spring Boot, SQL, PostgreSQL, Docker, AWS, REST APIs) plus 1 semantic skill match(es) (Microservices ~ REST APIs).",
+        "Contextual Role & Project Alignment (77% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4 years of relevant experience compared to the 4 years specified in the JD (Exceeds / Meets Requirement (4 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.E. in Information Technology, PICT Pune (2018 - 2022)."
+      ]
+    },
+    {
+      "candidate_name": "Sneha Iyer",
+      "email": "sneha.iyer.synth@example.com",
+      "phone": "+91-9810011004",
+      "filename": "04_Sneha_Iyer_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 3.5,
+      "education_summary": "B.Tech in Computer Science, SRM Institute of Science and Technology (2019 - 2023)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "REST APIs",
+        "Git"
+      ],
+      "raw_text": "Candidate Name: Sneha Iyer\nEmail: sneha.iyer.synth@example.com | Phone: +91-9810011004\nTotal Experience: 3.5 years\nEducation:\nB.Tech in Computer Science, SRM Institute of Science and Technology (2019 - 2023)\nTechnical Skills:\nJava, Spring Boot, PostgreSQL, SQL, REST APIs, Docker, React.js, Git\nWork Experience:\nFull Stack Java Developer | Stratagem Labs (2022 - 2026)\n- Developed enterprise REST APIs with Java and Spring Boot backed by PostgreSQL and SQL databases.\n- Containerized backend APIs with Docker and integrated frontend modules in React.js.",
+      "experience_text": "Full Stack Java Developer | Stratagem Labs (2022 - 2026)\n- Developed enterprise REST APIs with Java and Spring Boot backed by PostgreSQL and SQL databases.\n- Containerized backend APIs with Docker and integrated frontend modules in React.js.",
+      "overall_score": 90,
+      "breakdown": {
+        "skill_score": 95.0,
+        "semantic_score": 79.9,
+        "experience_score": 88.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs",
+        "AWS (via Docker, 76%)",
+        "Microservices (via REST APIs, 84%)"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "AWS",
+          "resume_skill": "Docker",
+          "similarity": 0.76
+        },
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "REST APIs",
+          "similarity": 0.84
+        }
+      ],
+      "missing_skills": [],
+      "experience_status": "Below Requirement by 0.5 yrs (3.5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (95% | 40% weight): Matched 6/8 required skills directly (Java, Spring Boot, SQL, PostgreSQL, Docker, REST APIs) plus 2 semantic skill match(es) (AWS ~ Docker, Microservices ~ REST APIs).",
+        "Contextual Role & Project Alignment (80% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (88% | 20% weight): Candidate has 3.5 years of relevant experience compared to the 4 years specified in the JD (Below Requirement by 0.5 yrs (3.5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computer Science, SRM Institute of Science and Technology (2019 - 2023)."
+      ]
+    },
+    {
+      "candidate_name": "Karthik Subramanian",
+      "email": "karthik.subramanian.synth@example.com",
+      "phone": "+91-9810011007",
+      "filename": "07_Karthik_Subramanian_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 4.0,
+      "education_summary": "MCA (Master of Computer Applications), NIT Trichy (2019 - 2022)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "SQL",
+        "PostgreSQL",
+        "AWS",
+        "REST APIs",
+        "Git",
+        "CI/CD"
+      ],
+      "raw_text": "Candidate Name: Karthik Subramanian\nEmail: karthik.subramanian.synth@example.com | Phone: +91-9810011007\nTotal Experience: 4 years\nEducation:\nMCA (Master of Computer Applications), NIT Trichy (2019 - 2022)\nTechnical Skills:\nJava, SQL, PostgreSQL, REST APIs, AWS, CI/CD, Git\nWork Experience:\nSystems Engineer | InfoGrid Services (2022 - 2026)\n- Maintained legacy Java backend services and REST APIs connected to PostgreSQL and SQL databases on AWS.\n- Automated build pipelines using Jenkins CI/CD and Git.",
+      "experience_text": "Systems Engineer | InfoGrid Services (2022 - 2026)\n- Maintained legacy Java backend services and REST APIs connected to PostgreSQL and SQL databases on AWS.\n- Automated build pipelines using Jenkins CI/CD and Git.",
+      "overall_score": 89,
+      "breakdown": {
+        "skill_score": 92.8,
+        "semantic_score": 73.0,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "SQL",
+        "PostgreSQL",
+        "AWS",
+        "REST APIs",
+        "Spring Boot (via Java, 78%)",
+        "Docker (via CI/CD, 80%)",
+        "Microservices (via REST APIs, 84%)"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "SQL",
+        "PostgreSQL",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "Spring Boot",
+          "resume_skill": "Java",
+          "similarity": 0.78
+        },
+        {
+          "jd_skill": "Docker",
+          "resume_skill": "CI/CD",
+          "similarity": 0.8
+        },
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "REST APIs",
+          "similarity": 0.84
+        }
+      ],
+      "missing_skills": [],
+      "experience_status": "Exceeds / Meets Requirement (4 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (93% | 40% weight): Matched 5/8 required skills directly (Java, SQL, PostgreSQL, AWS, REST APIs) plus 3 semantic skill match(es) (Spring Boot ~ Java, Docker ~ CI/CD, Microservices ~ REST APIs).",
+        "Contextual Role & Project Alignment (73% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4 years of relevant experience compared to the 4 years specified in the JD (Exceeds / Meets Requirement (4 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): MCA (Master of Computer Applications), NIT Trichy (2019 - 2022)."
+      ]
+    },
+    {
+      "candidate_name": "Vikram Deshmukh",
+      "email": "vikram.deshmukh.synth@example.com",
+      "phone": "+91-9810011005",
+      "filename": "05_Vikram_Deshmukh_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 5.0,
+      "education_summary": "B.Tech in Computer Engineering, COEP Pune (2017 - 2021)",
+      "degree_matched": true,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "raw_text": "Candidate Name: Vikram Deshmukh\nEmail: vikram.deshmukh.synth@example.com | Phone: +91-9810011005\nTotal Experience: 5 years\nEducation:\nB.Tech in Computer Engineering, COEP Pune (2017 - 2021)\nTechnical Skills:\nPython, FastAPI, PostgreSQL, SQL, Microservices, REST APIs, Docker, AWS, Redis, Kubernetes\nWork Experience:\nSenior Backend Architect | QuantFlow AI (2021 - 2026)\n- Cross-stack semantic test case: 5 years experience in Python & FastAPI Microservices with PostgreSQL, SQL, REST APIs, Docker, and AWS.\n- Designed high-concurrency distributed Microservices and REST APIs deployed via Docker on AWS.",
+      "experience_text": "Senior Backend Architect | QuantFlow AI (2021 - 2026)\n- Cross-stack semantic test case: 5 years experience in Python & FastAPI Microservices with PostgreSQL, SQL, REST APIs, Docker, and AWS.\n- Designed high-concurrency distributed Microservices and REST APIs deployed via Docker on AWS.",
+      "overall_score": 88,
+      "breakdown": {
+        "skill_score": 85.0,
+        "semantic_score": 81.2,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs",
+        "Spring Boot (via Microservices, 80%)"
+      ],
+      "exact_matched_skills": [
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "Spring Boot",
+          "resume_skill": "Microservices",
+          "similarity": 0.8
+        }
+      ],
+      "missing_skills": [
+        "Java"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (85% | 40% weight): Matched 6/8 required skills directly (SQL, PostgreSQL, Docker, AWS, Microservices, REST APIs) plus 1 semantic skill match(es) (Spring Boot ~ Microservices).",
+        "Contextual Role & Project Alignment (81% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 5 years of relevant experience compared to the 4 years specified in the JD (Exceeds / Meets Requirement (5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computer Engineering, COEP Pune (2017 - 2021).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Java."
+      ]
+    },
+    {
+      "candidate_name": "Neha Kapoor",
+      "email": "neha.kapoor.synth@example.com",
+      "phone": "+91-9810011010",
+      "filename": "10_Neha_kapoor_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 3.5,
+      "education_summary": "B.Tech in Electronics and Communication, Thapar Institute (2019 - 2023)",
+      "degree_matched": true,
+      "skills": [
+        "MongoDB",
+        "React.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "raw_text": "Candidate Name: Neha Kapoor\nEmail: neha.kapoor.synth@example.com | Phone: +91-9810011010\nTotal Experience: 3.5 years\nEducation:\nB.Tech in Electronics and Communication, Thapar Institute (2019 - 2023)\nTechnical Skills:\nNode.js, TypeScript, JavaScript, React.js, MongoDB, REST APIs, Docker, AWS\nWork Experience:\nMERN Stack Developer | PixelWave Digital (2022 - 2026)\n- Developed e-commerce storefronts and REST APIs using Node.js, TypeScript, React.js, and MongoDB.\n- Deployed containerized web applications using Docker on AWS EC2.",
+      "experience_text": "MERN Stack Developer | PixelWave Digital (2022 - 2026)\n- Developed e-commerce storefronts and REST APIs using Node.js, TypeScript, React.js, and MongoDB.\n- Deployed containerized web applications using Docker on AWS EC2.",
+      "overall_score": 80,
+      "breakdown": {
+        "skill_score": 85.0,
+        "semantic_score": 61.0,
+        "experience_score": 88.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Java (via TypeScript, 72%)",
+        "Spring Boot (via REST APIs, 76%)",
+        "SQL (via MongoDB, 73%)",
+        "PostgreSQL (via MongoDB, 75%)",
+        "Microservices (via REST APIs, 84%)"
+      ],
+      "exact_matched_skills": [
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "Java",
+          "resume_skill": "TypeScript",
+          "similarity": 0.72
+        },
+        {
+          "jd_skill": "Spring Boot",
+          "resume_skill": "REST APIs",
+          "similarity": 0.76
+        },
+        {
+          "jd_skill": "SQL",
+          "resume_skill": "MongoDB",
+          "similarity": 0.73
+        },
+        {
+          "jd_skill": "PostgreSQL",
+          "resume_skill": "MongoDB",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "REST APIs",
+          "similarity": 0.84
+        }
+      ],
+      "missing_skills": [],
+      "experience_status": "Below Requirement by 0.5 yrs (3.5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (85% | 40% weight): Matched 3/8 required skills directly (Docker, AWS, REST APIs) plus 5 semantic skill match(es) (Java ~ TypeScript, Spring Boot ~ REST APIs, SQL ~ MongoDB, PostgreSQL ~ MongoDB, Microservices ~ REST APIs).",
+        "Contextual Role & Project Alignment (61% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (88% | 20% weight): Candidate has 3.5 years of relevant experience compared to the 4 years specified in the JD (Below Requirement by 0.5 yrs (3.5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Electronics and Communication, Thapar Institute (2019 - 2023)."
+      ]
+    },
+    {
+      "candidate_name": "Ananya Chatterjee",
+      "email": "ananya.chatterjee.synth@example.com",
+      "phone": "+91-9810011006",
+      "filename": "06_Ananya_Chatterjee_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 3.0,
+      "education_summary": "B.Tech in Computer Science, Jadavpur University (2020 - 2023)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "Hibernate"
+      ],
+      "raw_text": "Candidate Name: Ananya Chatterjee\nEmail: ananya.chatterjee.synth@example.com | Phone: +91-9810011006\nTotal Experience: 3 years\nEducation:\nB.Tech in Computer Science, Jadavpur University (2020 - 2023)\nTechnical Skills:\nJava, Spring Boot, SQL, REST APIs, Hibernate, Git\nWork Experience:\nBackend Developer | VeriSoft Solutions (2023 - 2026)\n- Built core banking REST APIs in Java and Spring Boot with SQL and Hibernate persistence.\n- Collaborated on API schema design and unit testing for enterprise banking modules.",
+      "experience_text": "Backend Developer | VeriSoft Solutions (2023 - 2026)\n- Built core banking REST APIs in Java and Spring Boot with SQL and Hibernate persistence.\n- Collaborated on API schema design and unit testing for enterprise banking modules.",
+      "overall_score": 75,
+      "breakdown": {
+        "skill_score": 71.9,
+        "semantic_score": 72.0,
+        "experience_score": 75.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs",
+        "PostgreSQL (via SQL, 91%)",
+        "Microservices (via REST APIs, 84%)"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "PostgreSQL",
+          "resume_skill": "SQL",
+          "similarity": 0.91
+        },
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "REST APIs",
+          "similarity": 0.84
+        }
+      ],
+      "missing_skills": [
+        "Docker",
+        "AWS"
+      ],
+      "experience_status": "Below Requirement by 1 yrs (3 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (72% | 40% weight): Matched 4/8 required skills directly (Java, Spring Boot, SQL, REST APIs) plus 2 semantic skill match(es) (PostgreSQL ~ SQL, Microservices ~ REST APIs).",
+        "Contextual Role & Project Alignment (72% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (75% | 20% weight): Candidate has 3 years of relevant experience compared to the 4 years specified in the JD (Below Requirement by 1 yrs (3 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computer Science, Jadavpur University (2020 - 2023).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Docker, AWS."
+      ]
+    },
+    {
+      "candidate_name": "Meera Krishnan",
+      "email": "meera.krishnan.synth@example.com",
+      "phone": "+91-9810011008",
+      "filename": "08_Meera_Krishnan_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 2.5,
+      "education_summary": "B.Tech in Computational Mathematics, NIT Agartala (2020 - 2024)",
+      "degree_matched": true,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "raw_text": "Candidate Name: Meera Krishnan\nEmail: meera.krishnan.synth@example.com | Phone: +91-9810011008\nTotal Experience: 2.5 years\nEducation:\nB.Tech in Computational Mathematics, NIT Agartala (2020 - 2024)\nTechnical Skills:\nPython, FastAPI, React.js, Tailwind CSS, Sentence Transformers, spaCy, NLP, Machine Learning, PostgreSQL, SQL, Docker, AWS, REST APIs\nWork Experience:\nAI & Full Stack Engineer | LexiRank AI (2024 - 2026)\n- Built semantic resume parsing and ranking pipelines using Python, FastAPI, Sentence Transformers (all-MiniLM-L6-v2), and spaCy.\n- Engineered interactive recruiter dashboards in React.js and Tailwind CSS backed by PostgreSQL and Docker on AWS.",
+      "experience_text": "AI & Full Stack Engineer | LexiRank AI (2024 - 2026)\n- Built semantic resume parsing and ranking pipelines using Python, FastAPI, Sentence Transformers (all-MiniLM-L6-v2), and spaCy.\n- Engineered interactive recruiter dashboards in React.js and Tailwind CSS backed by PostgreSQL and Docker on AWS.",
+      "overall_score": 73,
+      "breakdown": {
+        "skill_score": 82.5,
+        "semantic_score": 59.9,
+        "experience_score": 62.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Spring Boot (via REST APIs, 76%)",
+        "Microservices (via REST APIs, 84%)"
+      ],
+      "exact_matched_skills": [
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "Spring Boot",
+          "resume_skill": "REST APIs",
+          "similarity": 0.76
+        },
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "REST APIs",
+          "similarity": 0.84
+        }
+      ],
+      "missing_skills": [
+        "Java"
+      ],
+      "experience_status": "Below Requirement by 1.5 yrs (2.5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (82% | 40% weight): Matched 5/8 required skills directly (SQL, PostgreSQL, Docker, AWS, REST APIs) plus 2 semantic skill match(es) (Spring Boot ~ REST APIs, Microservices ~ REST APIs).",
+        "Contextual Role & Project Alignment (60% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (62% | 20% weight): Candidate has 2.5 years of relevant experience compared to the 4 years specified in the JD (Below Requirement by 1.5 yrs (2.5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computational Mathematics, NIT Agartala (2020 - 2024).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Java."
+      ]
+    },
+    {
+      "candidate_name": "Siddharth Verma",
+      "email": "siddharth.verma.synth@example.com",
+      "phone": "+91-9810011009",
+      "filename": "09_Siddharth_Verma_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 2.0,
+      "education_summary": "B.Tech in Information Technology, DTU Delhi (2020 - 2024)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Git"
+      ],
+      "raw_text": "Candidate Name: Siddharth Verma\nEmail: siddharth.verma.synth@example.com | Phone: +91-9810011009\nTotal Experience: 2 years\nEducation:\nB.Tech in Information Technology, DTU Delhi (2020 - 2024)\nTechnical Skills:\nJava, Spring Boot, MySQL, SQL, Git\nWork Experience:\nJunior Java Associate | CodeCraft India (2024 - 2026)\n- Assisted in developing internal CRUD modules using Java, Spring Boot, and SQL.\n- Wrote unit tests and fixed bug tickets for internal reporting portals.",
+      "experience_text": "Junior Java Associate | CodeCraft India (2024 - 2026)\n- Assisted in developing internal CRUD modules using Java, Spring Boot, and SQL.\n- Wrote unit tests and fixed bug tickets for internal reporting portals.",
+      "overall_score": 65,
+      "breakdown": {
+        "skill_score": 68.6,
+        "semantic_score": 58.2,
+        "experience_score": 50.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL (via SQL, 91%)",
+        "Microservices (via Spring Boot, 80%)",
+        "REST APIs (via Spring Boot, 78%)"
+      ],
+      "exact_matched_skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "PostgreSQL",
+          "resume_skill": "SQL",
+          "similarity": 0.91
+        },
+        {
+          "jd_skill": "Microservices",
+          "resume_skill": "Spring Boot",
+          "similarity": 0.8
+        },
+        {
+          "jd_skill": "REST APIs",
+          "resume_skill": "Spring Boot",
+          "similarity": 0.78
+        }
+      ],
+      "missing_skills": [
+        "Docker",
+        "AWS"
+      ],
+      "experience_status": "Below Requirement by 2 yrs (2 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (69% | 40% weight): Matched 3/8 required skills directly (Java, Spring Boot, SQL) plus 3 semantic skill match(es) (PostgreSQL ~ SQL, Microservices ~ Spring Boot, REST APIs ~ Spring Boot).",
+        "Contextual Role & Project Alignment (58% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (50% | 20% weight): Candidate has 2 years of relevant experience compared to the 4 years specified in the JD (Below Requirement by 2 yrs (2 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Information Technology, DTU Delhi (2020 - 2024).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Docker, AWS."
+      ]
+    },
+    {
+      "candidate_name": "Arjun Malhotra",
+      "email": "arjun.malhotra.synth@example.com",
+      "phone": "+91-9810011011",
+      "filename": "11_Arjun_Malhotra_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 4.0,
+      "education_summary": "B.Sc in Statistics and Data Science, Fergusson College (2018 - 2021)",
+      "degree_matched": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "NLP",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "raw_text": "Candidate Name: Arjun Malhotra\nEmail: arjun.malhotra.synth@example.com | Phone: +91-9810011011\nTotal Experience: 4 years\nEducation:\nB.Sc in Statistics and Data Science, Fergusson College (2018 - 2021)\nTechnical Skills:\nPython, SQL, PostgreSQL, Machine Learning, Deep Learning, NLP\nWork Experience:\nData Analyst & ML Associate | InsightMetrics (2022 - 2026)\n- Built customer churn prediction models in Python and wrote analytical SQL queries on PostgreSQL data warehouses.",
+      "experience_text": "Data Analyst & ML Associate | InsightMetrics (2022 - 2026)\n- Built customer churn prediction models in Python and wrote analytical SQL queries on PostgreSQL data warehouses.",
+      "overall_score": 52,
+      "breakdown": {
+        "skill_score": 25.0,
+        "semantic_score": 38.6,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "SQL",
+        "PostgreSQL"
+      ],
+      "exact_matched_skills": [
+        "SQL",
+        "PostgreSQL"
+      ],
+      "semantic_matched_skills": [],
+      "missing_skills": [
+        "Java",
+        "Spring Boot",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (4 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (25% | 40% weight): Matched 2/8 required skills directly (SQL, PostgreSQL).",
+        "Contextual Role & Project Alignment (39% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4 years of relevant experience compared to the 4 years specified in the JD (Exceeds / Meets Requirement (4 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Sc in Statistics and Data Science, Fergusson College (2018 - 2021).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Java, Spring Boot, Docker, AWS, Microservices, REST APIs."
+      ]
+    },
+    {
+      "candidate_name": "Divya Banerjee",
+      "email": "divya.banerjee.synth@example.com",
+      "phone": "+91-9810011012",
+      "filename": "12_Divya_banerjee_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 1.5,
+      "education_summary": "- Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS.",
+      "degree_matched": true,
+      "skills": [
+        "React.js",
+        "TypeScript",
+        "JavaScript",
+        "Git",
+        "Tailwind CSS"
+      ],
+      "raw_text": "Candidate Name: Divya Banerjee\nEmail: divya.banerjee.synth@example.com | Phone: +91-9810011012\nTotal Experience: 1.5 years\nEducation:\nBCA, Christ University Bengaluru (2021 - 2024)\nTechnical Skills:\nReact.js, JavaScript, TypeScript, Tailwind CSS, Git\nWork Experience:\nFrontend UI Developer | StudioNova (2024 - 2026)\n- Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS.",
+      "experience_text": "Frontend UI Developer | StudioNova (2024 - 2026)\n- Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS.",
+      "overall_score": 22,
+      "breakdown": {
+        "skill_score": 9.0,
+        "semantic_score": 3.9,
+        "experience_score": 38.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Java (via TypeScript, 72%)"
+      ],
+      "exact_matched_skills": [],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "Java",
+          "resume_skill": "TypeScript",
+          "similarity": 0.72
+        }
+      ],
+      "missing_skills": [
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "experience_status": "Below Requirement by 2.5 yrs (1.5 yrs vs 4 yrs required)",
+      "reasons": [
+        "Skill Coverage (9% | 40% weight): Matched 0/8 required skills directly plus 1 semantic skill match(es) (Java ~ TypeScript).",
+        "Contextual Role & Project Alignment (4% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (38% | 20% weight): Candidate has 1.5 years of relevant experience compared to the 4 years specified in the JD (Below Requirement by 2.5 yrs (1.5 yrs vs 4 yrs required)).",
+        "Qualification Check (100% | 10% weight): - Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS..",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Spring Boot, SQL, PostgreSQL, Docker, AWS, Microservices, REST APIs."
+      ]
+    }
+  ],
+  "rankings_ai_fullstack": [
+    {
+      "candidate_name": "Meera Krishnan",
+      "email": "meera.krishnan.synth@example.com",
+      "phone": "+91-9810011008",
+      "filename": "08_Meera_Krishnan_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 2.5,
+      "education_summary": "B.Tech in Computational Mathematics, NIT Agartala (2020 - 2024)",
+      "degree_matched": true,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "raw_text": "Candidate Name: Meera Krishnan\nEmail: meera.krishnan.synth@example.com | Phone: +91-9810011008\nTotal Experience: 2.5 years\nEducation:\nB.Tech in Computational Mathematics, NIT Agartala (2020 - 2024)\nTechnical Skills:\nPython, FastAPI, React.js, Tailwind CSS, Sentence Transformers, spaCy, NLP, Machine Learning, PostgreSQL, SQL, Docker, AWS, REST APIs\nWork Experience:\nAI & Full Stack Engineer | LexiRank AI (2024 - 2026)\n- Built semantic resume parsing and ranking pipelines using Python, FastAPI, Sentence Transformers (all-MiniLM-L6-v2), and spaCy.\n- Engineered interactive recruiter dashboards in React.js and Tailwind CSS backed by PostgreSQL and Docker on AWS.",
+      "experience_text": "AI & Full Stack Engineer | LexiRank AI (2024 - 2026)\n- Built semantic resume parsing and ranking pipelines using Python, FastAPI, Sentence Transformers (all-MiniLM-L6-v2), and spaCy.\n- Engineered interactive recruiter dashboards in React.js and Tailwind CSS backed by PostgreSQL and Docker on AWS.",
+      "overall_score": 95,
+      "breakdown": {
+        "skill_score": 97.3,
+        "semantic_score": 85.5,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS",
+        "MongoDB (via PostgreSQL, 75%)",
+        "GCP (via AWS, 87%)"
+      ],
+      "exact_matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "AWS",
+          "similarity": 0.87
+        }
+      ],
+      "missing_skills": [],
+      "experience_status": "Exceeds / Meets Requirement (2.5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (97% | 40% weight): Matched 12/14 required skills directly (Python, FastAPI, PostgreSQL, React.js, Docker, AWS, REST APIs, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS) plus 2 semantic skill match(es) (MongoDB ~ PostgreSQL, GCP ~ AWS).",
+        "Contextual Role & Project Alignment (85% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 2.5 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (2.5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computational Mathematics, NIT Agartala (2020 - 2024)."
+      ]
+    },
+    {
+      "candidate_name": "Vikram Deshmukh",
+      "email": "vikram.deshmukh.synth@example.com",
+      "phone": "+91-9810011005",
+      "filename": "05_Vikram_Deshmukh_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 5.0,
+      "education_summary": "B.Tech in Computer Engineering, COEP Pune (2017 - 2021)",
+      "degree_matched": true,
+      "skills": [
+        "Python",
+        "FastAPI",
+        "SQL",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Microservices",
+        "REST APIs"
+      ],
+      "raw_text": "Candidate Name: Vikram Deshmukh\nEmail: vikram.deshmukh.synth@example.com | Phone: +91-9810011005\nTotal Experience: 5 years\nEducation:\nB.Tech in Computer Engineering, COEP Pune (2017 - 2021)\nTechnical Skills:\nPython, FastAPI, PostgreSQL, SQL, Microservices, REST APIs, Docker, AWS, Redis, Kubernetes\nWork Experience:\nSenior Backend Architect | QuantFlow AI (2021 - 2026)\n- Cross-stack semantic test case: 5 years experience in Python & FastAPI Microservices with PostgreSQL, SQL, REST APIs, Docker, and AWS.\n- Designed high-concurrency distributed Microservices and REST APIs deployed via Docker on AWS.",
+      "experience_text": "Senior Backend Architect | QuantFlow AI (2021 - 2026)\n- Cross-stack semantic test case: 5 years experience in Python & FastAPI Microservices with PostgreSQL, SQL, REST APIs, Docker, and AWS.\n- Designed high-concurrency distributed Microservices and REST APIs deployed via Docker on AWS.",
+      "overall_score": 73,
+      "breakdown": {
+        "skill_score": 59.9,
+        "semantic_score": 64.0,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "MongoDB (via Redis, 76%)",
+        "GCP (via AWS, 87%)",
+        "Machine Learning (via Python, 76%)"
+      ],
+      "exact_matched_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "Redis",
+          "similarity": 0.76
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "AWS",
+          "similarity": 0.87
+        },
+        {
+          "jd_skill": "Machine Learning",
+          "resume_skill": "Python",
+          "similarity": 0.76
+        }
+      ],
+      "missing_skills": [
+        "React.js",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (60% | 40% weight): Matched 6/14 required skills directly (Python, FastAPI, PostgreSQL, Docker, AWS, REST APIs) plus 3 semantic skill match(es) (MongoDB ~ Redis, GCP ~ AWS, Machine Learning ~ Python).",
+        "Contextual Role & Project Alignment (64% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 5 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computer Engineering, COEP Pune (2017 - 2021).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for React.js, Sentence Transformers, spaCy, NLP, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Neha Kapoor",
+      "email": "neha.kapoor.synth@example.com",
+      "phone": "+91-9810011010",
+      "filename": "10_Neha_kapoor_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 3.5,
+      "education_summary": "B.Tech in Electronics and Communication, Thapar Institute (2019 - 2023)",
+      "degree_matched": true,
+      "skills": [
+        "MongoDB",
+        "React.js",
+        "TypeScript",
+        "JavaScript",
+        "Node.js",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "raw_text": "Candidate Name: Neha Kapoor\nEmail: neha.kapoor.synth@example.com | Phone: +91-9810011010\nTotal Experience: 3.5 years\nEducation:\nB.Tech in Electronics and Communication, Thapar Institute (2019 - 2023)\nTechnical Skills:\nNode.js, TypeScript, JavaScript, React.js, MongoDB, REST APIs, Docker, AWS\nWork Experience:\nMERN Stack Developer | PixelWave Digital (2022 - 2026)\n- Developed e-commerce storefronts and REST APIs using Node.js, TypeScript, React.js, and MongoDB.\n- Deployed containerized web applications using Docker on AWS EC2.",
+      "experience_text": "MERN Stack Developer | PixelWave Digital (2022 - 2026)\n- Developed e-commerce storefronts and REST APIs using Node.js, TypeScript, React.js, and MongoDB.\n- Deployed containerized web applications using Docker on AWS EC2.",
+      "overall_score": 68,
+      "breakdown": {
+        "skill_score": 53.4,
+        "semantic_score": 55.2,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "MongoDB",
+        "React.js",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "PostgreSQL (via MongoDB, 75%)",
+        "GCP (via AWS, 87%)"
+      ],
+      "exact_matched_skills": [
+        "MongoDB",
+        "React.js",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "PostgreSQL",
+          "resume_skill": "MongoDB",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "AWS",
+          "similarity": 0.87
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (3.5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (53% | 40% weight): Matched 5/14 required skills directly (MongoDB, React.js, Docker, AWS, REST APIs) plus 3 semantic skill match(es) (FastAPI ~ REST APIs, PostgreSQL ~ MongoDB, GCP ~ AWS).",
+        "Contextual Role & Project Alignment (55% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 3.5 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (3.5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Electronics and Communication, Thapar Institute (2019 - 2023).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Sneha Iyer",
+      "email": "sneha.iyer.synth@example.com",
+      "phone": "+91-9810011004",
+      "filename": "04_Sneha_Iyer_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 3.5,
+      "education_summary": "B.Tech in Computer Science, SRM Institute of Science and Technology (2019 - 2023)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "REST APIs",
+        "Git"
+      ],
+      "raw_text": "Candidate Name: Sneha Iyer\nEmail: sneha.iyer.synth@example.com | Phone: +91-9810011004\nTotal Experience: 3.5 years\nEducation:\nB.Tech in Computer Science, SRM Institute of Science and Technology (2019 - 2023)\nTechnical Skills:\nJava, Spring Boot, PostgreSQL, SQL, REST APIs, Docker, React.js, Git\nWork Experience:\nFull Stack Java Developer | Stratagem Labs (2022 - 2026)\n- Developed enterprise REST APIs with Java and Spring Boot backed by PostgreSQL and SQL databases.\n- Containerized backend APIs with Docker and integrated frontend modules in React.js.",
+      "experience_text": "Full Stack Java Developer | Stratagem Labs (2022 - 2026)\n- Developed enterprise REST APIs with Java and Spring Boot backed by PostgreSQL and SQL databases.\n- Containerized backend APIs with Docker and integrated frontend modules in React.js.",
+      "overall_score": 67,
+      "breakdown": {
+        "skill_score": 50.8,
+        "semantic_score": 55.4,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "MongoDB (via PostgreSQL, 75%)",
+        "AWS (via Docker, 76%)",
+        "GCP (via Docker, 75%)"
+      ],
+      "exact_matched_skills": [
+        "PostgreSQL",
+        "React.js",
+        "Docker",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "AWS",
+          "resume_skill": "Docker",
+          "similarity": 0.76
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "Docker",
+          "similarity": 0.75
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (3.5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (51% | 40% weight): Matched 4/14 required skills directly (PostgreSQL, React.js, Docker, REST APIs) plus 4 semantic skill match(es) (FastAPI ~ REST APIs, MongoDB ~ PostgreSQL, AWS ~ Docker, GCP ~ Docker).",
+        "Contextual Role & Project Alignment (55% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 3.5 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (3.5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computer Science, SRM Institute of Science and Technology (2019 - 2023).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Arjun Malhotra",
+      "email": "arjun.malhotra.synth@example.com",
+      "phone": "+91-9810011011",
+      "filename": "11_Arjun_Malhotra_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 4.0,
+      "education_summary": "B.Sc in Statistics and Data Science, Fergusson College (2018 - 2021)",
+      "degree_matched": true,
+      "skills": [
+        "Python",
+        "SQL",
+        "PostgreSQL",
+        "NLP",
+        "Machine Learning",
+        "Deep Learning"
+      ],
+      "raw_text": "Candidate Name: Arjun Malhotra\nEmail: arjun.malhotra.synth@example.com | Phone: +91-9810011011\nTotal Experience: 4 years\nEducation:\nB.Sc in Statistics and Data Science, Fergusson College (2018 - 2021)\nTechnical Skills:\nPython, SQL, PostgreSQL, Machine Learning, Deep Learning, NLP\nWork Experience:\nData Analyst & ML Associate | InsightMetrics (2022 - 2026)\n- Built customer churn prediction models in Python and wrote analytical SQL queries on PostgreSQL data warehouses.",
+      "experience_text": "Data Analyst & ML Associate | InsightMetrics (2022 - 2026)\n- Built customer churn prediction models in Python and wrote analytical SQL queries on PostgreSQL data warehouses.",
+      "overall_score": 66,
+      "breakdown": {
+        "skill_score": 52.3,
+        "semantic_score": 48.7,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "Python",
+        "PostgreSQL",
+        "NLP",
+        "Machine Learning",
+        "FastAPI (via Python, 78%)",
+        "MongoDB (via PostgreSQL, 75%)",
+        "Sentence Transformers (via NLP, 90%)",
+        "spaCy (via NLP, 89%)"
+      ],
+      "exact_matched_skills": [
+        "Python",
+        "PostgreSQL",
+        "NLP",
+        "Machine Learning"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "Python",
+          "similarity": 0.78
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "Sentence Transformers",
+          "resume_skill": "NLP",
+          "similarity": 0.9
+        },
+        {
+          "jd_skill": "spaCy",
+          "resume_skill": "NLP",
+          "similarity": 0.89
+        }
+      ],
+      "missing_skills": [
+        "React.js",
+        "Docker",
+        "AWS",
+        "GCP",
+        "REST APIs",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (4 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (52% | 40% weight): Matched 4/14 required skills directly (Python, PostgreSQL, NLP, Machine Learning) plus 4 semantic skill match(es) (FastAPI ~ Python, MongoDB ~ PostgreSQL, Sentence Transformers ~ NLP, spaCy ~ NLP).",
+        "Contextual Role & Project Alignment (49% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (4 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Sc in Statistics and Data Science, Fergusson College (2018 - 2021).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for React.js, Docker, AWS, GCP, REST APIs, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Rohan Kulkarni",
+      "email": "rohan.kulkarni.synth@example.com",
+      "phone": "+91-9810011003",
+      "filename": "03_Rohan_Kulkarni_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 4.0,
+      "education_summary": "B.E. in Information Technology, PICT Pune (2018 - 2022)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "GCP",
+        "REST APIs",
+        "Kafka",
+        "Git",
+        "Hibernate"
+      ],
+      "raw_text": "Candidate Name: Rohan Kulkarni\nEmail: rohan.kulkarni.synth@example.com | Phone: +91-9810011003\nTotal Experience: 4 years\nEducation:\nB.E. in Information Technology, PICT Pune (2018 - 2022)\nTechnical Skills:\nJava, Spring Boot, SQL, REST APIs, Hibernate, Kafka, Kubernetes, GCP, Git\nWork Experience:\nSoftware Development Engineer II | Nexus Commerce (2022 - 2026)\n- Note: Demonstrates semantic skill matching (has SQL & Hibernate instead of explicit PostgreSQL; Kubernetes & GCP instead of Docker & AWS; Kafka distributed services).\n- Engineered event-driven backend services using Java, Spring Boot, REST APIs, and Apache Kafka.\n- Built relational data access layers with SQL and Hibernate ORM, deploying workloads on Kubernetes and GCP.",
+      "experience_text": "Software Development Engineer II | Nexus Commerce (2022 - 2026)\n- Note: Demonstrates semantic skill matching (has SQL & Hibernate instead of explicit PostgreSQL; Kubernetes & GCP instead of Docker & AWS; Kafka distributed services).\n- Engineered event-driven backend services using Java, Spring Boot, REST APIs, and Apache Kafka.\n- Built relational data access layers with SQL and Hibernate ORM, deploying workloads on Kubernetes and GCP.",
+      "overall_score": 64,
+      "breakdown": {
+        "skill_score": 47.1,
+        "semantic_score": 49.5,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "GCP",
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "MongoDB (via PostgreSQL, 75%)"
+      ],
+      "exact_matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "GCP",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "React.js",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (4 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (47% | 40% weight): Matched 5/14 required skills directly (PostgreSQL, Docker, AWS, GCP, REST APIs) plus 2 semantic skill match(es) (FastAPI ~ REST APIs, MongoDB ~ PostgreSQL).",
+        "Contextual Role & Project Alignment (49% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (4 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.E. in Information Technology, PICT Pune (2018 - 2022).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, React.js, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Aarav Mehta",
+      "email": "aarav.mehta.synth@example.com",
+      "phone": "+91-9810011001",
+      "filename": "01_Aarav_Mehta_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 5.0,
+      "education_summary": "Senior Backend Engineer | FinCore Systems (2023 - 2026)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "Microservices",
+        "REST APIs",
+        "Kafka",
+        "Git",
+        "Hibernate"
+      ],
+      "raw_text": "Candidate Name: Aarav Mehta\nEmail: aarav.mehta.synth@example.com | Phone: +91-9810011001\nTotal Experience: 5 years\nEducation:\nB.Tech in Computer Science and Engineering, VIT Vellore (2017 - 2021)\nTechnical Skills:\nJava, Spring Boot, SQL, PostgreSQL, Microservices, REST APIs, Docker, AWS, Hibernate, Kafka, Git\nWork Experience:\nSenior Backend Engineer | FinCore Systems (2023 - 2026)\n- Architected high-throughput payment Microservices using Java 17, Spring Boot, and REST APIs handling 15,000 req/sec.\n- Optimized complex transactional queries in PostgreSQL and SQL, reducing p99 latency by 38%.\n- Containerized 14 backend services with Docker and deployed on AWS ECS clusters.\nSoftware Engineer | CloudPulse Tech (2021 - 2023)\n- Built distributed order processing services in Java, Spring Boot, Hibernate, and SQL.",
+      "experience_text": "Senior Backend Engineer | FinCore Systems (2023 - 2026)\n- Architected high-throughput payment Microservices using Java 17, Spring Boot, and REST APIs handling 15,000 req/sec.\n- Optimized complex transactional queries in PostgreSQL and SQL, reducing p99 latency by 38%.\n- Containerized 14 backend services with Docker and deployed on AWS ECS clusters.\nSoftware Engineer | CloudPulse Tech (2021 - 2023)\n- Built distributed order processing services in Java, Spring Boot, Hibernate, and SQL.",
+      "overall_score": 63,
+      "breakdown": {
+        "skill_score": 46.2,
+        "semantic_score": 48.2,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "MongoDB (via PostgreSQL, 75%)",
+        "GCP (via AWS, 87%)"
+      ],
+      "exact_matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "AWS",
+          "similarity": 0.87
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "React.js",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (46% | 40% weight): Matched 4/14 required skills directly (PostgreSQL, Docker, AWS, REST APIs) plus 3 semantic skill match(es) (FastAPI ~ REST APIs, MongoDB ~ PostgreSQL, GCP ~ AWS).",
+        "Contextual Role & Project Alignment (48% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 5 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): Senior Backend Engineer | FinCore Systems (2023 - 2026).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, React.js, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Priya Nair",
+      "email": "priya.nair.synth@example.com",
+      "phone": "+91-9810011002",
+      "filename": "02_Priya_Nair_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 4.5,
+      "education_summary": "M.Tech in Software Engineering, IIIT Bangalore (2019 - 2021)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "REST APIs",
+        "Git"
+      ],
+      "raw_text": "Candidate Name: Priya Nair\nEmail: priya.nair.synth@example.com | Phone: +91-9810011002\nTotal Experience: 4.5 years\nEducation:\nM.Tech in Software Engineering, IIIT Bangalore (2019 - 2021)\nTechnical Skills:\nJava, Spring Boot, SQL, PostgreSQL, REST APIs, Microservices, Docker, Kubernetes, Git\nWork Experience:\nBackend Software Engineer | PayScale India (2021 - 2026)\n- Designed scalable ledger Microservices using Java, Spring Boot, and REST APIs.\n- Managed multi-terabyte relational schemas on PostgreSQL and wrote optimized SQL stored procedures.\n- Packaged backend applications using Docker and orchestrated deployments on Kubernetes.",
+      "experience_text": "Backend Software Engineer | PayScale India (2021 - 2026)\n- Designed scalable ledger Microservices using Java, Spring Boot, and REST APIs.\n- Managed multi-terabyte relational schemas on PostgreSQL and wrote optimized SQL stored procedures.\n- Packaged backend applications using Docker and orchestrated deployments on Kubernetes.",
+      "overall_score": 62,
+      "breakdown": {
+        "skill_score": 44.3,
+        "semantic_score": 46.8,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "MongoDB (via PostgreSQL, 75%)",
+        "AWS (via Kubernetes, 80%)",
+        "GCP (via Kubernetes, 80%)"
+      ],
+      "exact_matched_skills": [
+        "PostgreSQL",
+        "Docker",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "AWS",
+          "resume_skill": "Kubernetes",
+          "similarity": 0.8
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "Kubernetes",
+          "similarity": 0.8
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "React.js",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (4.5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (44% | 40% weight): Matched 3/14 required skills directly (PostgreSQL, Docker, REST APIs) plus 4 semantic skill match(es) (FastAPI ~ REST APIs, MongoDB ~ PostgreSQL, AWS ~ Kubernetes, GCP ~ Kubernetes).",
+        "Contextual Role & Project Alignment (47% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4.5 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (4.5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): M.Tech in Software Engineering, IIIT Bangalore (2019 - 2021).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, React.js, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Karthik Subramanian",
+      "email": "karthik.subramanian.synth@example.com",
+      "phone": "+91-9810011007",
+      "filename": "07_Karthik_Subramanian_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 4.0,
+      "education_summary": "MCA (Master of Computer Applications), NIT Trichy (2019 - 2022)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "SQL",
+        "PostgreSQL",
+        "AWS",
+        "REST APIs",
+        "Git",
+        "CI/CD"
+      ],
+      "raw_text": "Candidate Name: Karthik Subramanian\nEmail: karthik.subramanian.synth@example.com | Phone: +91-9810011007\nTotal Experience: 4 years\nEducation:\nMCA (Master of Computer Applications), NIT Trichy (2019 - 2022)\nTechnical Skills:\nJava, SQL, PostgreSQL, REST APIs, AWS, CI/CD, Git\nWork Experience:\nSystems Engineer | InfoGrid Services (2022 - 2026)\n- Maintained legacy Java backend services and REST APIs connected to PostgreSQL and SQL databases on AWS.\n- Automated build pipelines using Jenkins CI/CD and Git.",
+      "experience_text": "Systems Engineer | InfoGrid Services (2022 - 2026)\n- Maintained legacy Java backend services and REST APIs connected to PostgreSQL and SQL databases on AWS.\n- Automated build pipelines using Jenkins CI/CD and Git.",
+      "overall_score": 62,
+      "breakdown": {
+        "skill_score": 44.8,
+        "semantic_score": 46.2,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "PostgreSQL",
+        "AWS",
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "MongoDB (via PostgreSQL, 75%)",
+        "Docker (via CI/CD, 80%)",
+        "GCP (via AWS, 87%)"
+      ],
+      "exact_matched_skills": [
+        "PostgreSQL",
+        "AWS",
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "PostgreSQL",
+          "similarity": 0.75
+        },
+        {
+          "jd_skill": "Docker",
+          "resume_skill": "CI/CD",
+          "similarity": 0.8
+        },
+        {
+          "jd_skill": "GCP",
+          "resume_skill": "AWS",
+          "similarity": 0.87
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "React.js",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (4 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (45% | 40% weight): Matched 3/14 required skills directly (PostgreSQL, AWS, REST APIs) plus 4 semantic skill match(es) (FastAPI ~ REST APIs, MongoDB ~ PostgreSQL, Docker ~ CI/CD, GCP ~ AWS).",
+        "Contextual Role & Project Alignment (46% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 4 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (4 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): MCA (Master of Computer Applications), NIT Trichy (2019 - 2022).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, React.js, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Ananya Chatterjee",
+      "email": "ananya.chatterjee.synth@example.com",
+      "phone": "+91-9810011006",
+      "filename": "06_Ananya_Chatterjee_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 3.0,
+      "education_summary": "B.Tech in Computer Science, Jadavpur University (2020 - 2023)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "REST APIs",
+        "Git",
+        "Hibernate"
+      ],
+      "raw_text": "Candidate Name: Ananya Chatterjee\nEmail: ananya.chatterjee.synth@example.com | Phone: +91-9810011006\nTotal Experience: 3 years\nEducation:\nB.Tech in Computer Science, Jadavpur University (2020 - 2023)\nTechnical Skills:\nJava, Spring Boot, SQL, REST APIs, Hibernate, Git\nWork Experience:\nBackend Developer | VeriSoft Solutions (2023 - 2026)\n- Built core banking REST APIs in Java and Spring Boot with SQL and Hibernate persistence.\n- Collaborated on API schema design and unit testing for enterprise banking modules.",
+      "experience_text": "Backend Developer | VeriSoft Solutions (2023 - 2026)\n- Built core banking REST APIs in Java and Spring Boot with SQL and Hibernate persistence.\n- Collaborated on API schema design and unit testing for enterprise banking modules.",
+      "overall_score": 51,
+      "breakdown": {
+        "skill_score": 24.9,
+        "semantic_score": 37.6,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "REST APIs",
+        "FastAPI (via REST APIs, 85%)",
+        "PostgreSQL (via SQL, 91%)",
+        "MongoDB (via SQL, 73%)"
+      ],
+      "exact_matched_skills": [
+        "REST APIs"
+      ],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "REST APIs",
+          "similarity": 0.85
+        },
+        {
+          "jd_skill": "PostgreSQL",
+          "resume_skill": "SQL",
+          "similarity": 0.91
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "SQL",
+          "similarity": 0.73
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "React.js",
+        "Docker",
+        "AWS",
+        "GCP",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (3 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (25% | 40% weight): Matched 1/14 required skills directly (REST APIs) plus 3 semantic skill match(es) (FastAPI ~ REST APIs, PostgreSQL ~ SQL, MongoDB ~ SQL).",
+        "Contextual Role & Project Alignment (38% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 3 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (3 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Computer Science, Jadavpur University (2020 - 2023).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, React.js, Docker, AWS, GCP, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Siddharth Verma",
+      "email": "siddharth.verma.synth@example.com",
+      "phone": "+91-9810011009",
+      "filename": "09_Siddharth_Verma_Resume.pdf",
+      "file_format": "PDF",
+      "total_experience_years": 2.0,
+      "education_summary": "B.Tech in Information Technology, DTU Delhi (2020 - 2024)",
+      "degree_matched": true,
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Git"
+      ],
+      "raw_text": "Candidate Name: Siddharth Verma\nEmail: siddharth.verma.synth@example.com | Phone: +91-9810011009\nTotal Experience: 2 years\nEducation:\nB.Tech in Information Technology, DTU Delhi (2020 - 2024)\nTechnical Skills:\nJava, Spring Boot, MySQL, SQL, Git\nWork Experience:\nJunior Java Associate | CodeCraft India (2024 - 2026)\n- Assisted in developing internal CRUD modules using Java, Spring Boot, and SQL.\n- Wrote unit tests and fixed bug tickets for internal reporting portals.",
+      "experience_text": "Junior Java Associate | CodeCraft India (2024 - 2026)\n- Assisted in developing internal CRUD modules using Java, Spring Boot, and SQL.\n- Wrote unit tests and fixed bug tickets for internal reporting portals.",
+      "overall_score": 42,
+      "breakdown": {
+        "skill_score": 22.6,
+        "semantic_score": 9.7,
+        "experience_score": 100.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "FastAPI (via Spring Boot, 74%)",
+        "PostgreSQL (via SQL, 91%)",
+        "MongoDB (via SQL, 73%)",
+        "REST APIs (via Spring Boot, 78%)"
+      ],
+      "exact_matched_skills": [],
+      "semantic_matched_skills": [
+        {
+          "jd_skill": "FastAPI",
+          "resume_skill": "Spring Boot",
+          "similarity": 0.74
+        },
+        {
+          "jd_skill": "PostgreSQL",
+          "resume_skill": "SQL",
+          "similarity": 0.91
+        },
+        {
+          "jd_skill": "MongoDB",
+          "resume_skill": "SQL",
+          "similarity": 0.73
+        },
+        {
+          "jd_skill": "REST APIs",
+          "resume_skill": "Spring Boot",
+          "similarity": 0.78
+        }
+      ],
+      "missing_skills": [
+        "Python",
+        "React.js",
+        "Docker",
+        "AWS",
+        "GCP",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning",
+        "Tailwind CSS"
+      ],
+      "experience_status": "Exceeds / Meets Requirement (2 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (23% | 40% weight): Matched 0/14 required skills directly plus 4 semantic skill match(es) (FastAPI ~ Spring Boot, PostgreSQL ~ SQL, MongoDB ~ SQL, REST APIs ~ Spring Boot).",
+        "Contextual Role & Project Alignment (10% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (100% | 20% weight): Candidate has 2 years of relevant experience compared to the 2 years specified in the JD (Exceeds / Meets Requirement (2 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): B.Tech in Information Technology, DTU Delhi (2020 - 2024).",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, React.js, Docker, AWS, GCP, Sentence Transformers, spaCy, NLP, Machine Learning, Tailwind CSS."
+      ]
+    },
+    {
+      "candidate_name": "Divya Banerjee",
+      "email": "divya.banerjee.synth@example.com",
+      "phone": "+91-9810011012",
+      "filename": "12_Divya_banerjee_Resume.docx",
+      "file_format": "DOCX",
+      "total_experience_years": 1.5,
+      "education_summary": "- Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS.",
+      "degree_matched": true,
+      "skills": [
+        "React.js",
+        "TypeScript",
+        "JavaScript",
+        "Git",
+        "Tailwind CSS"
+      ],
+      "raw_text": "Candidate Name: Divya Banerjee\nEmail: divya.banerjee.synth@example.com | Phone: +91-9810011012\nTotal Experience: 1.5 years\nEducation:\nBCA, Christ University Bengaluru (2021 - 2024)\nTechnical Skills:\nReact.js, JavaScript, TypeScript, Tailwind CSS, Git\nWork Experience:\nFrontend UI Developer | StudioNova (2024 - 2026)\n- Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS.",
+      "experience_text": "Frontend UI Developer | StudioNova (2024 - 2026)\n- Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS.",
+      "overall_score": 42,
+      "breakdown": {
+        "skill_score": 14.3,
+        "semantic_score": 38.0,
+        "experience_score": 75.0,
+        "education_score": 100.0
+      },
+      "matched_skills": [
+        "React.js",
+        "Tailwind CSS"
+      ],
+      "exact_matched_skills": [
+        "React.js",
+        "Tailwind CSS"
+      ],
+      "semantic_matched_skills": [],
+      "missing_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "MongoDB",
+        "Docker",
+        "AWS",
+        "GCP",
+        "REST APIs",
+        "Sentence Transformers",
+        "spaCy",
+        "NLP",
+        "Machine Learning"
+      ],
+      "experience_status": "Below Requirement by 0.5 yrs (1.5 yrs vs 2 yrs required)",
+      "reasons": [
+        "Skill Coverage (14% | 40% weight): Matched 2/14 required skills directly (React.js, Tailwind CSS).",
+        "Contextual Role & Project Alignment (38% | 30% weight): Semantic similarity between candidate work history/project descriptions and JD responsibilities.",
+        "Experience Evaluation (75% | 20% weight): Candidate has 1.5 years of relevant experience compared to the 2 years specified in the JD (Below Requirement by 0.5 yrs (1.5 yrs vs 2 yrs required)).",
+        "Qualification Check (100% | 10% weight): - Built responsive marketing pages and design systems using React.js, TypeScript, and Tailwind CSS..",
+        "Identified Skill Gaps: No direct or semantic match above threshold (0.72) found for Python, FastAPI, PostgreSQL, MongoDB, Docker, AWS, GCP, REST APIs, Sentence Transformers, spaCy, NLP, Machine Learning."
+      ]
+    }
+  ]
+}
